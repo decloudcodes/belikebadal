@@ -1,13 +1,16 @@
-# belikebadal
-## My individual Futurense Internship Project Repo
+# Belikebadal's Futurense Internship Project Repo 🚀
 
-#### 06 June Task ✅
- - Create this Repo 
+## Welcome to my journey of growth and learning!
 
-#### 07 June Task ✅
- - Created Team Website : https://interns-ipynb.vercel.app/
- - Created a dummy Flask API to deliver Tech Stack updates
- - Connect the Flask app to MySQL
- - Studied about OOPs Concept
+### Daily Updates:
 
+#### June 6th 🌟
+- [x] Created this awesome Repo! 💻
 
+#### June 7th 🎉
+- [x] Launched our Team Website: [Check it out!](https://interns-ipynb.vercel.app/)
+- [x] Crafted a snazzy Flask API for delivering Tech Stack updates 🚀
+- [x] Wired up the Flask app to MySQL for seamless data management 🛠️
+- [x] Dived deep into the world of OOPs Concept for solidifying my coding skills 💡
+
+### Stay tuned for more exciting updates! 🚀🔥
